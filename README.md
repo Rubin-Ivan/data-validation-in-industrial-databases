@@ -1,1 +1,1 @@
-# data-validation-in-industrial-databases
+# Intellectual data validation in industrial databases
