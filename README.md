@@ -1,5 +1,9 @@
 # Intellectual data validation in industrial databases
-See the process of developing an intelligent data validation system using Bayesian networks in `experiments` folder.
+See the process of developing an intelligent data validation system using Bayesian networks.
+
+As part of the solution of the anomaly detection problem, 2 algorithms have been developed: based on the comparison of structures (`Structures comparasion`) and based on the solution of the classification problem.
+
+
 
 
 ## License
