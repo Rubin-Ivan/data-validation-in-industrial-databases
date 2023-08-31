@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 import os
 import netCDF4 as nc
@@ -61,4 +56,5 @@ def dataset_creating(files, seasons,conf_name,sea_cluster_file, sea_name):
 
         df.to_csv(f'{file}_{sea_name}_{conf_name}.csv')  
         i=i+1
+return df
 
