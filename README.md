@@ -1,8 +1,10 @@
 # Intellectual data validation in industrial databases
 See the process of developing an intelligent data validation system using Bayesian networks.
 
-As part of the solution of the anomaly detection problem, 2 algorithms have been developed: based on the comparison of BN structures (`Structures comparasion`) and based on the solution of the classification problem (`Classification`).
-
+As part of the solution of the anomaly detection problem, 3 algorithms have been developed:
+- based on the comparison of BN structures (`Structures comparasion`) 
+- based on the solution of the classification problem (`Classification`)
+- based on the combining semantic segmentation algorithms and BN (`Unet+BN`)
 
 
 
